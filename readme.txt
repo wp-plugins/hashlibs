@@ -3,11 +3,13 @@ Contributors: maxxsnake
 Tags: hash, adlibs, echo, url, query, string, dynamic, page, build
 Requires at least: 2.0.2
 
-Dynamically build a page with simple shortcode based on hashed URL values.
+Dynamically build a page with simple shortcode based on hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh or josh.dvvvvvvvv.com/#name=Josh/salutation=Mr. or replace 'Josh' with anything else.
 
 == Description ==
 
 Dynamically build a page with simple shortcode based on hashed URL values.
+
+Ex. Visit josh.dvvvvvvvv.com/#name=Josh or josh.dvvvvvvvv.com/#name=Josh/salutation=Mr. or replace the values with your own. My WordPress page content is simply: Hi [echo-hash salutation] [echo-hash name] - you can use any hash key you like in replace of 'salutation' or 'name' and place as many as you like anywhere in your content that you like.
 
 == Installation ==
 
