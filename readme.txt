@@ -7,7 +7,7 @@ Dynamically build a page with simple shortcode based on hashed URL values. Ex. V
 
 == Description ==
 
-Dynamically build a page with simple shortcode based on hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh or josh.dvvvvvvvv.com/#name=Josh/salutation=Mr. - replace 'Josh' or 'Mr.' with anything else for a different result. My WordPress page content is simply: Hi [echo-hash salutation] [echo-hash name] - you can replace 'salutation' or 'name' with anything else and place as many as you like anywhere in your content that you like.
+Dynamically build a page with simple shortcode based on hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh - replace 'Josh' with anything else for a different result.
 
 == Installation ==
 
@@ -16,6 +16,8 @@ Dynamically build a page with simple shortcode based on hashed URL values. Ex. V
 3. Use hashes in your URL to display their value in the page.
 
 For instance, if your page URL is http://mysite.com/page/#name=John Doe/age=43, then 'John Doe' will be displayed wherever [echo-hash name] is inserted, and '43'  will be displayed wherever [echo-hash age] is inserted.
+
+Ex. Visit josh.dvvvvvvvv.com/#name=Josh or josh.dvvvvvvvv.com/#name=Josh/salutation=Mr. - replace 'Josh' or 'Mr.' with anything else for a different result. My WordPress page content is simply: Hi [echo-hash salutation] [echo-hash name] - you can replace 'salutation' or 'name' with anything else and place as many as you like anywhere in your content that you like.
 
 == Frequently Asked Questions ==
 
