@@ -3,7 +3,7 @@ Contributors: maxxsnake
 Tags: hash, adlibs, echo, url, query, string, dynamic, page, build
 Requires at least: 2.0.2
 
-Dynamically build a page with simple shortcode based on hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh - replace 'Josh' with anything else for a different result.
+Dynamically build a page with hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh - replace 'Josh' with anything else for a different result.
 
 == Description ==
 
