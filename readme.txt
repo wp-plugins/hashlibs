@@ -3,7 +3,7 @@ Contributors: maxxsnake
 Tags: hash, adlibs, echo, url, query, string, dynamic, page, build
 Requires at least: 2.0.2
 
-Display hashed URL values in your page content. Ex. Visit josh.dvvvvvvvv.com/#name=Bob - replace 'Bob' with anything else for a different result.
+Display hashed URL values in your page content. Ex. Visit josh.dvvvvvvvv.com/#name=Bob - change 'Bob' to anything else for a different result.
 
 == Description ==
 
