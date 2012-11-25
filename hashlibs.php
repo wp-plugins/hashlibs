@@ -2,7 +2,7 @@
 /*
 Plugin Name: HashLibs
 Plugin URI: http://josh.dvvvvvvvv.com/hashlibs
-Description: Dynamically build a page with simple shortcode based on URL values (hash).
+Description: Dynamically build a page with simple shortcode based on hashed URL values. Ex. Visit josh.dvvvvvvvv.com/#name=Josh - replace 'Josh' with anything else for a different result.
 Version: 0.9
 Author: Josh Davis
 Author URI: http://josh.dvvvvvvvv.com/
