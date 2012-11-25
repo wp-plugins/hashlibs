@@ -3,11 +3,11 @@ Contributors: maxxsnake
 Tags: hash, adlibs, echo, url, query, string, dynamic, page, build
 Requires at least: 2.0.2
 
-Dynamically build a page with simple shortcode based on query strings (in the URL).
+Dynamically build a page with simple shortcode based on hashed URL values.
 
 == Description ==
 
-Dynamically build a page with simple shortcode based on query strings (in the URL).
+Dynamically build a page with simple shortcode based on hashed URL values.
 
 == Installation ==
 

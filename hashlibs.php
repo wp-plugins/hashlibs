@@ -1,10 +1,9 @@
 <?php
-
 /*
 Plugin Name: HashLibs
 Plugin URI: http://josh.dvvvvvvvv.com/hashlibs
 Description: Dynamically build a page with simple shortcode based on URL values (hash).
-Version: 0.5
+Version: 0.6
 Author: Josh Davis
 Author URI: http://josh.dvvvvvvvv.com/
 */
@@ -32,11 +31,9 @@ function hashlibs_enqueue() {
 }
 add_action('wp_enqueue_scripts', 'hashlibs_enqueue');
 
-function hashlibs_shortcode( $atts ){
-	extract(shortcode_parse_atts($atts), $atts);
+function hashlibs_shortcode($atts){
 	$hashlibs_holder = '<span id="hashlibs-' . $atts[0] . '"></span>';
 	return $hashlibs_holder;
 }
 add_shortcode('echo-hash', 'hashlibs_shortcode');
-
 ?>
