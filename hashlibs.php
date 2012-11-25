@@ -2,7 +2,7 @@
 /*
 Plugin Name: HashLibs
 Plugin URI: http://josh.dvvvvvvvv.com/hashlibs
-Description: Display hashed URL values in your page content using simple shortcode. Ex. Visit josh.dvvvvvvvv.com/#name=Josh - replace 'Josh' with anything else for a different result.
+Description: Display hashed URL values in your page content using simple shortcode. Ex. Visit josh.dvvvvvvvv.com/#name=Bob - replace 'Bob' with anything else for a different result.
 Version: 0.9
 Author: Josh Davis
 Author URI: http://josh.dvvvvvvvv.com/
